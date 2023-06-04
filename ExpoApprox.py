@@ -87,4 +87,6 @@ ax.legend()
 
 # Save figure. Default format is png.
 # dpi defines the resolution in dots per inch.
-fig.savefig('../figures/taylorSlope', dpi=300)
+# fig.savefig('../figures/taylorSlope', dpi=300)
+
+plt.show()
